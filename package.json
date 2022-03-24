@@ -1,0 +1,15 @@
+{
+  "name": "pandabear",
+  "version": "1.0.0",
+  "description": "sms and mail service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "toanlk",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "twilio": "^3.76.0"
+  }
+}
